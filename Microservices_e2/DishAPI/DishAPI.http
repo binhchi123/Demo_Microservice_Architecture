@@ -1,0 +1,6 @@
+@DishAPI_HostAddress = http://localhost:5136
+
+GET {{DishAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

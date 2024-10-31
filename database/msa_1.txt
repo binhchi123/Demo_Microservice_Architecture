@@ -1,0 +1,67 @@
+-- tao bang
+CREATE TABLE Categories (
+    LoaiMonAnId INT GENERATED AS IDENTITY PRIMARY KEY,
+    TenLoai VARCHAR2(100)
+);
+
+CREATE TABLE Ingredients (
+    NguyenLieuId INT GENERATED AS IDENTITY PRIMARY KEY,
+    TenNguyenLieu VARCHAR2(100)
+);
+
+CREATE TABLE Dishes (
+    MonAnId INT GENERATED AS IDENTITY PRIMARY KEY,
+    TenMon VARCHAR2(100),
+    GhiChu VARCHAR2(100),
+    LoaiMonAnId INT,
+    FOREIGN KEY (LoaiMonAnId) REFERENCES Categories(LoaiMonAnId) 
+);
+
+CREATE TABLE Recipes (
+    CongThucId INT GENERATED AS IDENTITY PRIMARY KEY,
+    MonAnId INT,
+    NguyenLieuId INT,
+    SoLuong INT,
+    DonViTinh VARCHAR2(100),
+    FOREIGN KEY (MonAnId) REFERENCES Dishes(MonAnId),
+    FOREIGN KEY (NguyenLieuId) REFERENCES Ingredients(NguyenLieuId)
+);
+
+-- them du lieu 
+INSERT INTO categories(TenLoai) VALUES ('Món ăn miền Bắc');
+INSERT INTO categories(TenLoai) VALUES ('Món ăn miền Nam');
+
+INSERT INTO dishes(TenMon, GhiChu, LoaiMonAnID) VALUES ('Rau muống xào tỏi','nhiều rau ít tỏi',1);
+INSERT INTO dishes(TenMon, GhiChu, LoaiMonAnID) VALUES ('Đậu phụ tẩm hành','nhiều hành',2);
+
+INSERT INTO ingredients(TenNguyenLieu) VALUES ('Rau muống');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Dầu hào');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Tỏi');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Dầu ăn');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Mì Chính');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Muối');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Đường');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Đậu phụ');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Hành lá');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Nước mắm');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Đường');
+INSERT INTO ingredients(TenNguyenLieu) VALUES (N'Bột ngọt');
+
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (1, 1, 500, 'gr');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (1, 2, 1, 'muỗng canh');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (1, 3, 2, 'củ');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (1, 4, 2, 'muỗng canh');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (2, 8, 4, 'miếng');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (2, 9, 50, 'g');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (2, 10, 30, 'ml');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (2, 7, 15, 'g');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (2, 12, 3, 'g');
+INSERT INTO recipes(MonAnId, NguyenLieuId, SoLuong, DonViTinh) VALUES (3, 13, 500, 'gr');
+
+SELECT * FROM categories;
+SELECT * FROM ingredients;
+SELECT * FROM dishes;
+SELECT * FROM recipes;
+
+
+

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{1FBB454D-510F-4175-85C0-266DD47D25F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptAPI", "ReceiptAPI\ReceiptAPI.csproj", "{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E54A83CA-7F09-47B9-9D40-053F28ACCD2D} = {1FBB454D-510F-4175-85C0-266DD47D25F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B97A4A-8530-43AC-8F15-70DEDC03DE6A}
+	EndGlobalSection
+EndGlobal

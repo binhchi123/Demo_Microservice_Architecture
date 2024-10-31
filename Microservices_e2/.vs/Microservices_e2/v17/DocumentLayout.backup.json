@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\service\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\service\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\repository\\dishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\repository\\dishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\application\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\application\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\application\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\application\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\dtos\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\dtos\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\service\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\service\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\application\\service\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\application\\service\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\application\\service\\idishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\application\\service\\idishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\dtos\\dishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\dtos\\dishdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\repository\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\repository\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\application\\repository\\idishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\application\\repository\\idishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\application\\repository\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\application\\repository\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|d:\\asp .net core\\microservices\\microservices_e2\\dishapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85D1D4F4-0B7B-4B52-8894-CCB3A47A64FD}|DishAPI\\DishAPI.csproj|solutionrelative:dishapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 255,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Application\\Service\\ICategoryService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "DishAPI\\Application\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:29:31.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IngredientDTO.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\DTOs\\IngredientDTO.cs",
+              "RelativeDocumentMoniker": "DishAPI\\DTOs\\IngredientDTO.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\DTOs\\IngredientDTO.cs",
+              "RelativeToolTip": "DishAPI\\DTOs\\IngredientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:01:16.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Service\\CategoryService.cs",
+              "RelativeToolTip": "DishAPI\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwDMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:08:52.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DishService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Service\\DishService.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Service\\DishService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Service\\DishService.cs",
+              "RelativeToolTip": "DishAPI\\Service\\DishService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAA9wBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:27:17.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DishRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Repository\\DishRepository.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Repository\\DishRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Repository\\DishRepository.cs",
+              "RelativeToolTip": "DishAPI\\Repository\\DishRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:27:05.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DishAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA7wFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:33:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Application\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "DishAPI\\Application\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:28:40.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DishAPI\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "DishAPI\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:59:57.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "DishAPI\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:25:08.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IngredientsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Controllers\\IngredientsController.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Controllers\\IngredientsController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Controllers\\IngredientsController.cs",
+              "RelativeToolTip": "DishAPI\\Controllers\\IngredientsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:46:06.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Controllers\\DishesController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "DishAPI\\Controllers\\DishesController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:47:45.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Program.cs",
+              "RelativeToolTip": "DishAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:29:47.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IngredientService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Service\\IngredientService.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Service\\IngredientService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Service\\IngredientService.cs",
+              "RelativeToolTip": "DishAPI\\Service\\IngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:27:21.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IIngredientService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Service\\IIngredientService.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Application\\Service\\IIngredientService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Service\\IIngredientService.cs",
+              "RelativeToolTip": "DishAPI\\Application\\Service\\IIngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:28:28.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDishService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Service\\IDishService.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Application\\Service\\IDishService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Service\\IDishService.cs",
+              "RelativeToolTip": "DishAPI\\Application\\Service\\IDishService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:29:40.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecipeDTO.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\DTOs\\RecipeDTO.cs",
+              "RelativeDocumentMoniker": "DishAPI\\DTOs\\RecipeDTO.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\DTOs\\RecipeDTO.cs",
+              "RelativeToolTip": "DishAPI\\DTOs\\RecipeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:00:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DishDTO.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\DTOs\\DishDTO.cs",
+              "RelativeDocumentMoniker": "DishAPI\\DTOs\\DishDTO.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\DTOs\\DishDTO.cs",
+              "RelativeToolTip": "DishAPI\\DTOs\\DishDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:00:24.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDishRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Repository\\IDishRepository.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Application\\Repository\\IDishRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Repository\\IDishRepository.cs",
+              "RelativeToolTip": "DishAPI\\Application\\Repository\\IDishRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:16:42.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IngredientRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Repository\\IngredientRepository.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Repository\\IngredientRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Repository\\IngredientRepository.cs",
+              "RelativeToolTip": "DishAPI\\Repository\\IngredientRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:27:08.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IIngredientRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Repository\\IIngredientRepository.cs",
+              "RelativeDocumentMoniker": "DishAPI\\Application\\Repository\\IIngredientRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\Application\\Repository\\IIngredientRepository.cs",
+              "RelativeToolTip": "DishAPI\\Application\\Repository\\IIngredientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:28:34.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DishAPI\\appsettings.json",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_e2\\DishAPI\\appsettings.json",
+              "RelativeToolTip": "DishAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T02:33:18.026Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

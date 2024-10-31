@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\service\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\service\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\application\\service\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\service\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\application\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\application\\repository\\ireceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\repository\\ireceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\application\\repository\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\repository\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\application\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\repository\\receiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\repository\\receiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\service\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\service\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\controllers\\receiptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\controllers\\receiptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\application\\models\\receiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\models\\receiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\microservices\\microservices_7\\receiptapi\\application\\service\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54A83CA-7F09-47B9-9D40-053F28ACCD2D}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\service\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Service\\ICategoryService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:06:12.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIngredientRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Repository\\IIngredientRepository.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Repository\\IIngredientRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Repository\\IIngredientRepository.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Repository\\IIngredientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:06:04.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IngredientService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Service\\IngredientService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Service\\IngredientService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Service\\IngredientService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Service\\IngredientService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:58:04.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Service\\CategoryService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:00:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReceiptRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Repository\\ReceiptRepository.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Repository\\ReceiptRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Repository\\ReceiptRepository.cs",
+              "RelativeToolTip": "ReceiptAPI\\Repository\\ReceiptRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIA3wCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:07:46.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIngredientService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Service\\IIngredientService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Service\\IIngredientService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Service\\IIngredientService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Service\\IIngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:59:59.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Program.cs",
+              "RelativeToolTip": "ReceiptAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:33:58.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReceiptRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Repository\\IReceiptRepository.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Repository\\IReceiptRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Repository\\IReceiptRepository.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Repository\\IReceiptRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:25:31.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ReceiptAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:28:31.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:48:45.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "ReceiptAPI\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:19:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReceiptDetail.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Models\\ReceiptDetail.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Models\\ReceiptDetail.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Models\\ReceiptDetail.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Models\\ReceiptDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:35:54.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReceiptService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Service\\ReceiptService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Service\\ReceiptService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Service\\ReceiptService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Service\\ReceiptService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwI0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:31:09.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IReceiptService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Service\\IReceiptService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Service\\IReceiptService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Application\\Service\\IReceiptService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Service\\IReceiptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:27:19.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceiptsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Controllers\\ReceiptsController.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Controllers\\ReceiptsController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Microservices\\Microservices_7\\ReceiptAPI\\Controllers\\ReceiptsController.cs",
+              "RelativeToolTip": "ReceiptAPI\\Controllers\\ReceiptsController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:41:52.521Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
